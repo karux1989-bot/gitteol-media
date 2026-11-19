@@ -1,0 +1,37 @@
+{
+ "file": "/srv/nas/공용/admin/gitteol/shorts/out/upload/2026-11-19/youtube/gitteol022_filee_shorts_60fps.mp4",
+ "title": "워드 한글 변환, 폴더에 넣으면 자동으로 #shorts",
+ "description": "워드 한글 변환, docx hwp 변환, webp jpg 변환을 해 주는 무료 파일 변환 앱 Filee를 직접 써 봤어요.\n\n· 윈도우는 winget install --id KnifeLemon.Filee 또는 깃허브 Releases 의 설치 파일·휴대용 zip 으로 받아요 (휴대용 zip 으로 시험했어요)\n· 첫 실행 \"변환 엔진 선택\" 창에서 \"나중에\"를 눌러도 이미지·PDF·오피스 문서·HWP 는 바로 변환돼요\n· 자동 변환 폴더를 정하고 프리셋을 JPG 로 골라 두면, 넣은 webp 사진이 converted 폴더에 JPG 로 바뀌어요\n· 프리셋을 HWP 로 바꾸고 워드 회의록(.docx)을 넣으니 한글 파일(.hwp)이 됐어요. 내용도 그대로였어요\n· 바꾼 기록은 홈에 남고, 파일 열기·폴더 열기·되돌리기 버튼이 있어요\n· 설명서(README)에는 파일을 어디에도 올리지 않는다고 적혀 있어요\n\n무료 (MIT) · 윈도우 10·11 · 맥(미리보기) · 리눅스 · 메뉴 한국어\n버전 2.5.0\n깃허브 별 28,793 (2026년 11월 19일 확인)\n화면 출처: 윈도우 PC에서 직접 써 봤어요 (회의록·사진은 시험용 가짜 파일)\n\n📥 Filee 1분 한글 가이드: https://immediate-garlic-479.notion.site/41d957c5fbb3819c906cdb899040acd0\n\n자세한 사용법은 👇\n(블로그 주소)\n\n#워드한글변환 #파일변환 #Filee",
+ "tags": [
+  "Filee",
+  "파일 변환",
+  "워드 한글 변환",
+  "docx hwp 변환",
+  "webp jpg 변환",
+  "이미지 변환",
+  "hwp 변환",
+  "무료 파일 변환",
+  "파일 변환 프로그램",
+  "한글파일 변환",
+  "hwp 변환 무료",
+  "hwp 변환 사이트",
+  "hwpx hwp 변환",
+  "워드 한글로 변환 방법",
+  "워드 한글 변환 사이트"
+ ],
+ "playlists": [
+  "PLXqoQLYsD_mo"
+ ],
+ "comment": "📥 Filee 1분 한글 가이드: https://immediate-garlic-479.notion.site/41d957c5fbb3819c906cdb899040acd0\n자세한 사용법은 👇\n(블로그 주소)",
+ "srt": null,
+ "localizations": {
+  "en": {
+   "title": "Free Word to HWP Converter: Drop Files in a Folder, Done – Filee #shorts",
+   "description": "I tried Filee, a free file converter app that handles Word to HWP (docx → hwp) and webp → jpg.\n\n· On Windows, install it with winget install --id KnifeLemon.Filee, or get the installer / portable zip from GitHub Releases (I tested the portable zip)\n· On first launch, the \"Choose conversion engines\" window says images, PDF, Office documents and HWP convert right away, so I clicked \"Later\"\n· Set up an auto-convert folder with the JPG preset, and webp photos dropped in it become JPG in the \"converted\" folder\n· With the preset switched to HWP, a Word meeting note (.docx) became an HWP file, with the content intact\n· Conversions are listed on the Home screen, with Open file, Open folder and Undo buttons\n· The README says files are not uploaded anywhere\n\nFree (MIT) · Windows 10/11, macOS (preview), Linux · Korean menus\nVersion 2.5.0\n28,793 GitHub stars (checked Nov 19, 2026)\nScreens: tested myself on a Windows PC (the meeting note and photos are dummy test files)\n\n📥 Filee 1-minute guide (Korean): https://immediate-garlic-479.notion.site/41d957c5fbb3819c906cdb899040acd0\n\nMore details (Korean blog) 👇\n(블로그 주소)\n\n#FileConverter #WordToHWP #Filee"
+  },
+  "ja": {
+   "title": "無料ファイル変換、フォルダーに入れるだけで Word→HWP 自動変換 Filee #shorts",
+   "description": "Word→ハングル（docx → hwp）や webp → jpg の変換ができる無料ファイル変換アプリ Filee を実際に使ってみました。\n\n· Windows では winget install --id KnifeLemon.Filee、または GitHub Releases のインストーラー・ポータブル版 zip から（ポータブル版 zip で試しました）\n· 初回起動の「変換エンジンの選択」画面では、画像・PDF・Office 文書・HWP はすぐ変換できると表示されたので「後で」を押しました\n· 自動変換フォルダーを作ってプリセットを JPG にすると、入れた webp 写真が converted フォルダーに JPG で保存されます\n· プリセットを HWP に変えて Word の議事録（.docx）を入れると、HWP ファイルになりました。内容もそのままでした\n· 変換履歴はホームに残り、ファイルを開く・フォルダーを開く・元に戻すボタンがあります\n· README には、ファイルをどこにもアップロードしないと書かれています\n\n無料（MIT）· Windows 10・11、Mac（プレビュー）、Linux · メニューは韓国語\nバージョン 2.5.0\nGitHub スター 28,793（2026年11月19日確認）\n画面：Windows PC で実際に使ってみました（議事録・写真はテスト用のダミーファイル）\n\n📥 Filee 1分ガイド（韓国語）: https://immediate-garlic-479.notion.site/41d957c5fbb3819c906cdb899040acd0\n\n詳しい使い方（韓国語ブログ）👇\n(블로그 주소)\n\n#ファイル変換 #無料ソフト #Filee"
+  }
+ }
+}
